@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "leekaixuan@qq.com",
+    "longName": "mytime",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/sunbw.png",
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/snowbw.png",
+                "name": "IMAGE_SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/rainbw.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/cloudbw.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "mytime",
+    "uuid": "1f444883-f885-4a81-88b9-207dfa3e3c7f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
